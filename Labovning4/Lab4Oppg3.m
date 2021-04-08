@@ -1,0 +1,6 @@
+a = readim('/Users/nyseth/Downloads/Testbilder2/Fig0707(a)(Original).tif','')
+a_uni_3 = unif(a,[3, 3],'rectangular')
+a_uni_5 = unif(a,[5, 5],'rectangular')
+a_uni_9 = unif(a,[9, 9],'rectangular')
+a_uni_15 = unif(a,[15, 15],'rectangular')
+a_uni_35 = unif(a,[35, 35],'rectangular')
